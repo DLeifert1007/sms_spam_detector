@@ -8,5 +8,15 @@ I have created a SMS Prediction Function
 
 I have then created the Gradio Interface Application and the results are as follows. 
 
+These are the results of of the SMS Spam classification App
+
+The text message: "You are a lucky winner of $5000!", is not spam.
+
+The text message: "You won 2 free tickets to the Super Bowl.", is not spam.
+
+The text message: "You won 2 free tickets to the Super Bowl text us to claim your prize.", is spam.
+
+The text message: "Thanks for registering. Text 4343 to receive free updates on medicare.", is spam.
+
 
 ![Gradio Model](GradioApp.png)
